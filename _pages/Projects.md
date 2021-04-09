@@ -2,7 +2,6 @@
 title: "Projects"
 excerpt: "Page for projects"
 permalink: /projects/
-layout: home
-author_profile: false
+layout: archive
 ---
 Page for student 1
