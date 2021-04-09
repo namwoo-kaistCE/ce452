@@ -4,4 +4,4 @@ excerpt: "Page for projects"
 permalink: /projects/
 layout: archive
 ---
-Page for student 1
+Page for projects
