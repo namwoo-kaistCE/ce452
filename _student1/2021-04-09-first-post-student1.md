@@ -1,10 +1,9 @@
 ---
-title: "Second post of student 1"
-date: 2021-04-09 15:47:28 +0900
-categories: student1 mid_term
+title: "First post of student 1"
+date: 2021-04-09 15:37:28 +0900
 ---
 
-Lorem Ipsum
+TEST_PAGE
 
 ​```python
 def print_hi(name):

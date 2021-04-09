@@ -1,9 +1,9 @@
 ---
-title: "not shown post"
-date: 2021-04-09 15:47:28 +0900
+title: "The post of student 2"
+date: 2021-04-09 15:44:28 +0900
 ---
 
-do not show this post
+Welcome.
 
 ​```python
 def print_hi(name):

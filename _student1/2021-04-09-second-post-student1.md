@@ -1,9 +1,9 @@
 ---
-title: "The post of student 2"
-date: 2021-04-09 15:47:28 +0900
+title: "Second post of student 1"
+date: 2021-04-09 15:43:28 +0900
 ---
 
-Welcome.
+Lorem Ipsum
 
 ​```python
 def print_hi(name):
