@@ -2,6 +2,8 @@
 title: "Projects"
 excerpt: "Page for projects"
 permalink: /projects/
-layout: archive
+layout: home
+sidebar:
+    nav: "docs"
 ---
-Page for projects
+Page for projects 1624
