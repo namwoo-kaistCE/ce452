@@ -171,7 +171,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /_pages # ignore Minimal Mistakes /_pages
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -275,7 +274,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
