@@ -22,5 +22,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-Welcome to CE452 @ KAIST projects page!
+##Welcome to CE452 @ KAIST projects page!
+
 {% include feature_row %}
