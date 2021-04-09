@@ -4,6 +4,6 @@ excerpt: "Page for projects"
 permalink: /projects/
 layout: home
 sidebar:
-    nav: "docs"
+  nav: "docs"
 ---
 Page for projects 1624

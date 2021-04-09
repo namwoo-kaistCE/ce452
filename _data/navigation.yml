@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "Placeholder"
     url: /
-  - title: "External Link?"
+  - title: "External Link"
     url: https://true.kaist.ac.kr
 
 docs:
