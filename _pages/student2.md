@@ -3,7 +3,6 @@ title: "student2"
 excerpt: "Page for student 2"
 permalink: /student2/
 layout: home
-author: Student Shin
-author_profile: true
+author_profile: false
 ---
 Page for student 2
