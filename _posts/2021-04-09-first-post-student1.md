@@ -1,7 +1,7 @@
 ---
 title: "First post of student 1"
 date: 2021-04-09 15:47:28 +0900
-categories: student1 mid_term
+collection: student1
 ---
 
 TEST_PAGE
