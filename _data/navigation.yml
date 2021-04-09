@@ -1,11 +1,11 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Student_no1"
-    url: /student1/
-  - title: "Student_no2"
+  #- title: "Student_no1"
+  #  url: /student1/
+  - title: "Another page"
     url: /student2/
-  - title: "Student_no3"
-    url: /student3/
+  #- title: "Student_no3"
+  #  url: /student3/
   - title: "External Link?"
     url: https://true.kaist.ac.kr
